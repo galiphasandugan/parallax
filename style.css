@@ -10,7 +10,7 @@ body {
 }
 
 .first {
-  background-image: url(./img/bg.jpg);
+  background-image: url(./bg.jpg);
 }
 .photo {
   height: 100vh;
@@ -51,7 +51,7 @@ h1 {
 }
 
 .second {
-  background-image: url(./img/bg2.jpg);
+  background-image: url(./bg2.jpg);
   text-align: center;
 }
 
@@ -65,7 +65,7 @@ h1 {
 }
 
 .third {
-  background-image: url(./img/bg3.jpg);
+  background-image: url(./bg3.jpg);
 }
 .third h1 {
   padding: 11px;
@@ -74,4 +74,5 @@ h1 {
 }
 
 .fourth {
-  background-image: url(./img/bg4.jpg);
+  background-image: url(./bg4.jpg);
+}
